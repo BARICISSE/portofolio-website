@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
-    "gatsby": "^2.13.45",
+    "gatsby": "^4.25.7",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
